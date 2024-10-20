@@ -2,6 +2,8 @@
 int main()
 {
     int n;
+    
+    //Taking the number input from the user 
     printf("Enter a number :\n ");
     scanf("%d",&n);
 
