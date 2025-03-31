@@ -1,6 +1,6 @@
-# My C Programming Journey
+# Naif's C Programming Journal
 
-Welcome to my C programming language repository! This project documents my learning journey and all the code I've written as I explored the depths of C. Here, you'll find a collection of programs, exercises, and personal projects that showcase my progress and experiments with this powerful language.
+Welcome to my C programming language repository! This project, *Naif-C-Journal*, documents my learning journey and all the code I've written as I explored the depths of C. Here, you'll find a collection of programs, exercises, and personal projects that showcase my progress and experiments with this powerful language.
 
 ## About This Repository
 
@@ -21,11 +21,11 @@ To run the code in this repository, you'll need:
 ### Installation
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/[YourUsername]/[YourRepoName].git
+   git clone https://github.com/NaifNoor09/Naif-C-Journal.git
    ```
 2. Navigate to the directory:
    ```bash
-   cd [YourRepoName]
+   cd Naif-C-Journal
    ```
 3. Compile any `.c` file you'd like to try:
    ```bash
@@ -61,12 +61,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 Happy coding!  
-[Your Name]  
+Naif Noor  
 March 31, 2025
 
 ---
-
-### Notes:
-- Replace `[YourUsername]`, `[YourRepoName]`, `[YourFavoriteProject]`, and `[Your Name]` with your actual details.
-- Customize the "Repository Structure" and "Highlights" sections to reflect your actual code.
-- If you want to add more specific details (e.g., a particular project description), let me know, and I can refine it further!
