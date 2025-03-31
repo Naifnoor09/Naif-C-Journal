@@ -53,7 +53,6 @@ This is a personal project, so I’m not actively seeking contributions. However
 
 ## Acknowledgments 🙏
 - Thanks to the C programming community for endless resources and inspiration 🌐
-- Shoutout to [any specific tutorials, books, or mentors] that helped me along the way 🌟
 
 ## License 📜
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
